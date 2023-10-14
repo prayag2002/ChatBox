@@ -7,4 +7,4 @@ http://localhost:5500
 Connect to the Host server
 $ nodemon nodeServer/index.html
 
-Welocme to ChttBox!
+Welocme to ChatBox!
